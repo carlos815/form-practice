@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-form/static/css/main.f40c6a25.chunk.css",
-    "main.js": "/react-form/static/js/main.779d5adc.chunk.js",
-    "main.js.map": "/react-form/static/js/main.779d5adc.chunk.js.map",
-    "runtime-main.js": "/react-form/static/js/runtime-main.ea955fc0.js",
-    "runtime-main.js.map": "/react-form/static/js/runtime-main.ea955fc0.js.map",
-    "static/js/2.16ec8879.chunk.js": "/react-form/static/js/2.16ec8879.chunk.js",
-    "static/js/2.16ec8879.chunk.js.map": "/react-form/static/js/2.16ec8879.chunk.js.map",
-    "index.html": "/react-form/index.html",
-    "precache-manifest.b2d5efbcfbe309e7491b57f385c444d5.js": "/react-form/precache-manifest.b2d5efbcfbe309e7491b57f385c444d5.js",
-    "service-worker.js": "/react-form/service-worker.js",
-    "static/css/main.f40c6a25.chunk.css.map": "/react-form/static/css/main.f40c6a25.chunk.css.map",
-    "static/js/2.16ec8879.chunk.js.LICENSE.txt": "/react-form/static/js/2.16ec8879.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/react-form/static/media/unfold_more-black-18dp.51892d7a.svg"
+    "main.css": "/form-practice/static/css/main.7733eea9.chunk.css",
+    "main.js": "/form-practice/static/js/main.779d5adc.chunk.js",
+    "main.js.map": "/form-practice/static/js/main.779d5adc.chunk.js.map",
+    "runtime-main.js": "/form-practice/static/js/runtime-main.bd656631.js",
+    "runtime-main.js.map": "/form-practice/static/js/runtime-main.bd656631.js.map",
+    "static/js/2.16ec8879.chunk.js": "/form-practice/static/js/2.16ec8879.chunk.js",
+    "static/js/2.16ec8879.chunk.js.map": "/form-practice/static/js/2.16ec8879.chunk.js.map",
+    "index.html": "/form-practice/index.html",
+    "precache-manifest.5e0b21e374d68955dd3d5a2f57612092.js": "/form-practice/precache-manifest.5e0b21e374d68955dd3d5a2f57612092.js",
+    "service-worker.js": "/form-practice/service-worker.js",
+    "static/css/main.7733eea9.chunk.css.map": "/form-practice/static/css/main.7733eea9.chunk.css.map",
+    "static/js/2.16ec8879.chunk.js.LICENSE.txt": "/form-practice/static/js/2.16ec8879.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/form-practice/static/media/unfold_more-black-18dp.51892d7a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea955fc0.js",
+    "static/js/runtime-main.bd656631.js",
     "static/js/2.16ec8879.chunk.js",
-    "static/css/main.f40c6a25.chunk.css",
+    "static/css/main.7733eea9.chunk.css",
     "static/js/main.779d5adc.chunk.js"
   ]
 }
