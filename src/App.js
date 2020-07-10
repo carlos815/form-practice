@@ -253,7 +253,7 @@ function App() {
   return (
 
     <Switch>
-      <Route exact path="/" render={(props) => (
+      <Route exact path="/form-practice" render={(props) => (
         <Form {...props} formTemplate={formTemplate}
           goToPage={goToPage}
           currentPageId={currentPage.currentPage.id}
